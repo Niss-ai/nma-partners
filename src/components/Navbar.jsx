@@ -31,7 +31,7 @@ export default function Navbar() {
           {/* Logo */}
           <a href="#home">
             <img
-              src="/ss 1.png"
+              src="/logo.png"
               alt="NMA Partners"
               className="h-12 w-auto"
             />
