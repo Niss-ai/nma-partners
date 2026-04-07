@@ -59,7 +59,7 @@ export default function CTASection() {
         <div className="max-w-7xl mx-auto px-4 flex flex-col sm:flex-row justify-between items-center gap-4 text-xs text-gray-400">
           <div className="flex flex-col items-start gap-1">
             <img
-              src="https://media.db.com/images/public/69b41c6244e8d8d16b53d444/7d746d43e_Screenshot2025-10-24105828.png"
+              src="/logo.png"
               alt="NMA Partners"
               className="h-10 w-auto"
             />
